@@ -8,7 +8,7 @@ var Main = (props) => {
       <div >
         <div>
           {props.children}
-
+          <p>Main render</p>
         </div>
       </div>
 
